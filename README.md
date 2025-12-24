@@ -198,7 +198,7 @@ Watch the full dissertation presentation:
 ## 📧 Contact
 
 **MSc Business Analytics | UCL School of Management**  
-Candidate ID: MKDS6
+Email :- vedantgoyal867@gmail.com
 
 For questions, collaboration opportunities, or further discussion about this project, feel free to reach out.
 
@@ -206,7 +206,7 @@ For questions, collaboration opportunities, or further discussion about this pro
 
 ## 📄 License
 
-This project was completed as part of the MSc Business Analytics program at UCL School of Management.
+This project was completed as part of the MSc Business Analytics program at UCL School of Management and Liqvid.
 
 ---
 
