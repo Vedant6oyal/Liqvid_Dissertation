@@ -1,4 +1,4 @@
-# 🎓 Predictive Analysis of Student Dropout in E-Learning Platforms
+# 🎓 Predictive Analysis of Student Dropout in An E-Learning Platforms
 
 > **MSc Business Analytics Dissertation | UCL School of Management**  
 > *Transforming 50M server logs into actionable retention insights*
